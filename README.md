@@ -27,4 +27,11 @@ This is a Node.js application for managing users. The application uses MYSQL for
     npm run dev
 
 ## End Point URL
+
 https://bitespeed-qq97.onrender.com/identify
+
+Request Body 
+{
+    "email": "",
+    "phone": ""
+}
